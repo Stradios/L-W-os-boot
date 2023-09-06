@@ -39,3 +39,6 @@ A Pc/Laptop with 2 hdd/ssd.
  dowlod the Git file unzip it go to folder /L-W-os-boot/for Windows os swap/Pop_os! Boot
  * run the Pop_os!_boot.bat file to istall the sript 
  * the iscon will apear in the start menu 
+ ![Alt text](<images/win menu.jpg>)
+
+ ### Now you can you it to simles boot between os 
