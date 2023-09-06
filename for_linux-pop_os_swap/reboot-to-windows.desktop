@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Reboot to Windows
+Exec=/usr/share//boot-windos/boot-window.sh
+Icon=/usr/share/icons/reboot-windows.svg
+Type=Application
+
+
