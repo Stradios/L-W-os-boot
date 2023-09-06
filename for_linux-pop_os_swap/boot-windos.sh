@@ -7,6 +7,6 @@ sudo cp -r boot-windos/ /usr/share/
 sudo cp -r reboot-windows.svg /usr/share/icons/
 
 # Copy the 'reboot-to-windows.desktop' file to '~/.local/share/applications/'
-sudo cp -r reboot-to-windows.desktop ~/.local/share/applications/
+cp -r reboot-to-windows.desktop ~/.local/share/applications/
 
 echo "Files copied successfully!"

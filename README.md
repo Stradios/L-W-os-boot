@@ -37,7 +37,7 @@ A Pc/Laptop with 2 hdd/ssd.
 ## step .3 
 * boot in Windows 
  dowlod the Git file unzip it go to folder /L-W-os-boot/for Windows os swap/Pop_os! Boot
- * run the Pop_os!_boot.bat file to istall the sript 
+ * run the Pop_os!_boot.bat as Administrator file to istall the sript 
  * the icon will apear in the start menu 
  ![Alt text](<images/win menu.jpg>)
 
